@@ -1,0 +1,41 @@
+_repo: Brazil-the-River-Plate-and-the-Falkland-Islands-With-the-Cape-Horn-route-to-Australia-Includi__56402
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Ouseley, William Gore, Sir
+    alias: Ouseley, W. Gore
+    birthdate: 1797
+    deathdate: 1866
+    gutenberg_agent_id: '48820'
+    url: http://www.gutenberg.org/2009/agents/48820
+  - agent_name: Hotham, Charles
+    gutenberg_agent_id: '48821'
+    url: http://www.gutenberg.org/2009/agents/48821
+creator:
+  author:
+    agent_name: Hadfield, William
+    birthdate: 1806
+    deathdate: 1887
+    gutenberg_agent_id: '47138'
+    url: http://www.gutenberg.org/2009/agents/47138
+description: ''
+gutenberg_issued: '2018-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56402'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brazil -- Description and travel'
+- !lcc 'F2501'
+- !lcsh 'Montevideo (Uruguay) -- Description and travel'
+- !lcsh 'Falkland Islands'
+- !lcsh 'Paraguay -- Description and travel'
+- !lcsh 'Buenos Aires (Argentina) -- Description and travel'
+- !lcsh 'Brazil -- Economic conditions'
+- GITenberg
+title: "Brazil, the River Plate, and the Falkland Islands\r\nWith the Cape Horn route\
+  \ to Australia. Including notices of Lisbon, Madeira, the Canaries, and Cape Verde."
+url: http://www.gutenberg.org/ebooks/56402
