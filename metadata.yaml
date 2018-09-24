@@ -11,6 +11,9 @@ contributor:
   - agent_name: Hotham, Charles
     gutenberg_agent_id: '48821'
     url: http://www.gutenberg.org/2009/agents/48821
+covers:
+- cover_type: archival
+  image_path: 56402-h/images/cover.jpg
 creator:
   author:
     agent_name: Hadfield, William
@@ -19,6 +22,8 @@ creator:
     gutenberg_agent_id: '47138'
     url: http://www.gutenberg.org/2009/agents/47138
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56402#Brazil-the-River-Plate-and-the-Falkland-Islands-With-the-Cape-Horn-route-to-Australia-Includi_
 gutenberg_issued: '2018-01-19'
 gutenberg_type: Text
 identifiers:
